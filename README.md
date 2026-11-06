@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danuve3/Danuve3/main/assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danuve3/Danuve3/main/assets/hero-light.svg">
-  <img alt="Danuve. Juegos, cromos y experimentos que viven en el navegador." src="https://raw.githubusercontent.com/Danuve3/Danuve3/main/assets/hero-light.svg" width="100%">
+  <img alt="Danuve" src="https://raw.githubusercontent.com/Danuve3/Danuve3/main/assets/hero-light.svg" width="100%">
 </picture>
 </div>
 
@@ -19,4 +19,4 @@
 <a href="https://danuve3.github.io/coco-lomo/"><img src="https://raw.githubusercontent.com/Danuve3/Danuve3/main/assets/projects/coco-lomo.webp" width="49%" alt="Coco Lomo: juego de tablero con fichas de animales."></a>
 </p>
 
-<sub>Toca un cromo para jugar o abrirlo &nbsp;·&nbsp; Y además: <a href="https://danuve3.github.io/mundiales-futbol/">Mundiales de Fútbol</a> &nbsp;·&nbsp; <a href="https://danuve3.github.io/soccer-cards/">Soccer Cards</a></sub>
+<sub>Y además: <a href="https://danuve3.github.io/mundiales-futbol/">Mundiales de Fútbol</a> &nbsp;·&nbsp; <a href="https://danuve3.github.io/soccer-cards/">Soccer Cards</a></sub>
