@@ -1,8 +1,8 @@
 <div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danuve3/Danuve3/main/assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danuve3/Danuve3/main/assets/hero-light.svg">
-  <img alt="Danuve" src="https://raw.githubusercontent.com/Danuve3/Danuve3/main/assets/hero-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danuve3/Danuve3/6a5949d022f817efdc57753ff5c0e950cf2fdad4/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danuve3/Danuve3/6a5949d022f817efdc57753ff5c0e950cf2fdad4/assets/hero-light.svg">
+  <img alt="Danuve" src="https://raw.githubusercontent.com/Danuve3/Danuve3/6a5949d022f817efdc57753ff5c0e950cf2fdad4/assets/hero-light.svg" width="100%">
 </picture>
 </div>
 
